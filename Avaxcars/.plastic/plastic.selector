@@ -1,0 +1,4 @@
+repository "Avaxcars@Sinan_Karatas@cloud"
+  path "/"
+    br "/main"
+    co "/main"

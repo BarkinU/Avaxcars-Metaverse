@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "278639299945",
+    "firebase_url": "https://avaxcars-6728f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "avaxcars-6728f",
+    "storage_bucket": "avaxcars-6728f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278639299945:android:659fa9b671bddb0c2d01f8",
+        "android_client_info": {
+          "package_name": "com.tester.avaxcars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278639299945-sooubvi9qb3bn453ru2ughija650goku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9IHosGeRtHSX8AkzH5ZsLr3DkA_OMJuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278639299945-sooubvi9qb3bn453ru2ughija650goku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
