@@ -10,6 +10,6 @@ Map conditions, equipment, and a low chance percentage play a role in winning ra
 
 ---
 
- ## [Click](https://drive.google.com/file/d/1M1pKHz-Bvth2d0RzsCCyI6d7Rsg9RiMO/view?usp=sharing) to see Trailer or see the GIF version below **&darr;**;
+ ## [Click](https://drive.google.com/file/d/1bKCa27hdfdQNG6ipXoNEBwSMo_M3XcH6/view?usp=sharing) to see Trailer or see the GIF version below **&darr;**;
 
 ![WhatsApp Video 2024-12-12 at 23-VEED (10)](https://github.com/user-attachments/assets/d0c609e2-09d0-4a85-9b50-13a14d4a5f75)
